@@ -10,3 +10,6 @@ We have a cleanup plan.
 - Make titles sentence case.
 - Standardize dates
 - Standardize dimention units.
+
+There are some problems with this file - so I'm fixing them. 
+
